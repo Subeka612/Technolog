@@ -29,3 +29,6 @@ public class MainClass
 		ts1.setTemperature(19);		
 	}
 }
+
+test
+	
